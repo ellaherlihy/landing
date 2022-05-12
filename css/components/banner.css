@@ -1,0 +1,17 @@
+.hero-banner {
+  background-image: url("/landing/images/background.png");
+  padding: 200px;
+  background-size: cover;
+  background-position: center;
+  text-shadow: 2em;
+}
+
+.hero-banner h1 {
+  color: white;
+  text-align: left;
+}
+
+.hero-banner p {
+  color: rgb(181, 176, 176);
+  text-align: left;
+}
